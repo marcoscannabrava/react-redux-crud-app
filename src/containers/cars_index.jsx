@@ -7,7 +7,7 @@ import { fetchCars } from '../actions';
 import Aside from '../components/aside';
 
 class CarsIndex extends Component {
-  componentWillMount() {
+  componentDidMount() {
     this.props.fetchCars(this.props.garage);
   }
 

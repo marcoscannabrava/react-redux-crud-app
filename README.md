@@ -1,4 +1,4 @@
-# redux-router-boilerplate
+# React Redux Router Boilerplate - CRUD app
 
 Simple React + Router + Redux starter with the following config:
 
