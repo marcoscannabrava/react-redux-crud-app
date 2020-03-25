@@ -1,6 +1,6 @@
 # React Redux Router Boilerplate - CRUD app
 
-Simple React + Router + Redux starter with the following config:
+Simple React + Router + Redux starter coded as a project on Le Wagon's React Video Course with the following config:
 
 - React, ReactDOM
 - Redux, React-Redux
